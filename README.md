@@ -5,7 +5,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9%2B-red)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-GPLv3-green)](https://www.gnu.org/licenses/gpl-3.0.html)
 
-Servidor Flask para verificación biométrica facial con **detección anti-spoofing** y **reconocimiento facial de alta precisión**. Backend de inteligencia artificial para el [plugin de Moodle Face ID](https://github.com/usuario/moodle-quizaccess_faceid).
+Servidor Flask para verificación biométrica facial con **detección anti-spoofing** y **reconocimiento facial de alta precisión**. Backend de inteligencia artificial para el [plugin de Moodle Face ID](https://github.com/Galo45/moodle-quizaccess-faceid-).
 
 ---
 
@@ -68,8 +68,8 @@ Servidor Flask para verificación biométrica facial con **detección anti-spoof
 ### 1️⃣ Clonar el Repositorio
 
 ```bash
-git clone https://github.com/usuario/faceid-flask-server.git
-cd faceid-flask-server
+git clone https://github.com/Galo45/faceid-flask-server-.git
+cd faceid-flask-server-
 ```
 
 ### 2️⃣ Crear Entorno Virtual
@@ -1011,8 +1011,8 @@ Este proyecto está licenciado bajo **GNU General Public License v3.0**
 Si tienes problemas:
 
 1. Revisa [Solución de Problemas](#-solución-de-problemas)
-2. Busca en [Issues](https://github.com/usuario/faceid-flask-server/issues)
-3. Abre un [nuevo Issue](https://github.com/usuario/faceid-flask-server/issues/new)
+2. Busca en [Issues](https://github.com/Galo45/faceid-flask-server-/issues)
+3. Abre un [nuevo Issue](https://github.com/Galo45/faceid-flask-server-/issues/new)
 
 ---
 
