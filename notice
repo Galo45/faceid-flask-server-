@@ -1,0 +1,58 @@
+Face Recognition System for Online Exam Identity Verification
+Copyright 2025 Galo David Ruales Yucas
+
+This product includes software developed by third parties:
+
+1. Silent-Face-Anti-Spoofing (MiniFASNet)
+   Copyright 2019 Minivision Technology Co., Ltd.
+   Licensed under Apache License 2.0
+   https://github.com/minivision-ai/Silent-Face-Anti-Spoofing
+   
+   This project uses MiniFASNet models and/or code for face anti-spoofing 
+   detection. The original work includes model architectures, pre-trained 
+   weights, and prediction algorithms developed by Minivision Technology.
+
+2. OpenCV (Open Source Computer Vision Library)
+   Copyright (C) 2000-2024, Intel Corporation and contributors, all rights reserved.
+   Licensed under Apache License 2.0 (versions 4.5.0 and higher)
+   https://opencv.org/
+
+3. InsightFace
+   Copyright (c) 2018 Jiankang Deng and Jia Guo
+   Licensed under MIT License
+   https://github.com/deepinsight/insightface
+   
+   NOTE: While the code is released under MIT License, pre-trained models 
+   are licensed for non-commercial research purposes only.
+
+4. ONNX Runtime
+   Copyright (c) Microsoft Corporation
+   Licensed under MIT License
+   https://github.com/microsoft/onnxruntime
+
+5. PyTorch
+   Copyright (c) 2016-present, Facebook, Inc. (Meta Platforms, Inc.)
+   Licensed under BSD-3-Clause License
+   https://pytorch.org/
+
+6. Flask
+   Copyright 2010 Pallets (Armin Ronacher and contributors)
+   Licensed under BSD-3-Clause License
+   https://palletsprojects.com/p/flask/
+
+7. Face Recognition Library
+   Copyright (c) 2017 Adam Geitgey
+   Licensed under MIT License
+   https://github.com/ageitgey/face_recognition
+
+8. EasyOCR
+   Copyright (c) 2020 JaidedAI
+   Licensed under Apache License 2.0
+   https://github.com/JaidedAI/EasyOCR
+
+This software is licensed under the Apache License 2.0.
+See LICENSE file for full terms and conditions.
+
+NOTICE: If any modifications were made to third-party code, such 
+modifications are documented in the source code files and are also 
+licensed under Apache License 2.0 unless otherwise specified.
